@@ -5,3 +5,6 @@
 [submodule "boiwsa"]
 	path = boiwsa
 	url = https://github.com/timginker/boiwsa
+[submodule "wex"]
+	path = wex
+	url = https://github.com/timginker/wex
